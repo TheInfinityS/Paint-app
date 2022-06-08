@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PainTail</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="number">+996705417868</string>
+    <string name="theinfinityg">\@Theinfinityg</string>
+    <string name="infinityitf_gmail_com">infinityitf@gmail.com</string>
+    <string name="wierd">wierd</string>
+    <string name="pencil">Pencil</string>
+    <string name="pen">Pen</string>
+    <string name="feltpen">feltPen</string>
+    <string name="brush">Brush</string>
+    <string name="gradient">Градиент</string>
+    <string name="pipette">Пипетка</string>
+    <string name="fiilcolor">Заливка</string>
+    <string name="brushes">Кисточки</string>
+    <string name="pen_size">Pen size:</string>
+    <string name="opacity">Непрозрачность</string>
+    <string name="options">Options</string>
+    <string name="layers">layers</string>
+    <string name="color">Цвет</string>
+    <string name="eraser">Ластик</string>
+    <string name="turatbekov_samat">Turatbekov Samat</string>
+    <string name="name">Name:</string>
+    <string name="projectnames">drawning</string>
+    <string name="saveprojects">Save</string>
+    <string name="canceal">canceal</string>
+</resources>

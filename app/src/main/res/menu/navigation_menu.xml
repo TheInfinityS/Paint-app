@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/newFile"
+        android:title="New file"
+        android:icon="@drawable/ic_baseline_image_24"/>
+    <item android:id="@+id/openImage"
+        android:title="Open image"
+        android:icon="@drawable/ic__save"/>
+    <item android:id="@+id/export"
+        android:title="Export"
+        android:icon="@mipmap/ic_upload_foreground"/>
+    <item android:title="About me">
+        <menu>
+            <item android:id="@+id/whatsUp"
+                android:icon="@mipmap/ic_whatsup_foreground"
+                android:title="@string/number"/>
+            <item android:id="@+id/Telegram"
+                android:icon="@mipmap/ic_telegram_foreground"
+                android:title="@string/number"/>
+            <item android:id="@+id/instgram"
+                android:icon="@mipmap/ic_instgram_foreground"
+                android:title="@string/theinfinityg"/>
+            <item android:id="@+id/gmail"
+                android:icon="@mipmap/ic_gmail_foreground"
+                android:title="@string/infinityitf_gmail_com"/>
+        </menu>
+    </item>
+
+</menu>

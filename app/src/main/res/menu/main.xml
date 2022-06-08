@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".CreateUserActivity"
+    >
+    <item
+        android:id="@+id/undo_button"
+        app:showAsAction="always"
+        android:title="Назад"
+        android:icon="@drawable/ic_undo"/>
+    <item
+        android:id="@+id/redo_buttton"
+        app:showAsAction="always"
+        android:title="Вперёд"
+        android:icon="@drawable/ic_redo"/>
+    <item
+        android:id="@+id/clear_buttton"
+        app:showAsAction="always"
+        android:title="Очитстить"
+        android:icon="@drawable/ic_clear"/>
+</menu>
